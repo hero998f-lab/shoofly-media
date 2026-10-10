@@ -17,15 +17,15 @@ QUEUE = [
 },
 {
 "id": "3-shops-warehouse",
-"image": "autopost/images/3-shops-warehouse-v2.jpg",
-"caption": "عندك قطع في المستودع؟ في زبون يدورها الحين 🔧\n\nسجّل محلك في شوفلي وحدّد الماركات والأقسام اللي تشتغل فيها، وطلبات القطع المناسبة توصلك على الواتساب.\n\nسجّل محلك الحين 👈 shoofly.om\n\n#عمان #قطع_غيار #محلات_قطع_غيار",
-"story": "autopost/images/3-shops-warehouse-story.jpg"
+"image": "autopost/images/3-shops-warehouse-v3.jpg",
+"caption": "عندك قطع غيار سيارات في المستودع؟ في زبون يدورها الحين 🔧\n\nسجّل محلك في شوفلي وحدّد الماركات والأقسام اللي تشتغل فيها، وطلبات القطع المناسبة توصلك على الواتساب.\n\nسجّل محلك الحين 👈 shoofly.om\n\n#عمان #قطع_غيار #محلات_قطع_غيار",
+"story": "autopost/images/3-shops-warehouse-story-v3.jpg"
 },
 {
 "id": "4-stop-roaming",
-"image": "autopost/images/4-stop-roaming-v2.jpg",
-"caption": "بدل ما تلف على المحلات، خلّ المحلات تجيك 🚗\n\nاكتب القطعة مرة وحدة، ويوصل طلبك للمحلات المختصة، وهم يراسلونك على الواتساب.\n\nارسل قطعة سيارتك عبر الموقع والردود تجيك ع الواتساب 👈 shoofly.om\n\n#عمان #قطع_غيار #مسقط",
-"story": "autopost/images/4-stop-roaming-story.jpg"
+"image": "autopost/images/4-stop-roaming-v3.jpg",
+"caption": "بدل ما تلف على محلات قطع غيار السيارات، خلّ المحلات تجيك 🚗\n\nاكتب القطعة مرة وحدة، ويوصل طلبك للمحلات المختصة، وهم يراسلونك على الواتساب.\n\nارسل قطعة سيارتك عبر الموقع والردود تجيك ع الواتساب 👈 shoofly.om\n\n#عمان #قطع_غيار #مسقط",
+"story": "autopost/images/4-stop-roaming-story-v3.jpg"
 },
 {
 "id": "5-at-night",
